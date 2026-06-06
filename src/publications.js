@@ -1,5 +1,22 @@
 window.publicationsData = [
   {
+    selected: true,
+    title: "GEM: GPU Erasure-Coded Memory for Fast Training Recovery",
+    authors: [
+      { name: "Ronglong Wu", isYou: true},
+      { name: "Huayu Zeng" },
+      { name: "Xinbin Hu" },
+      { name: "Shuyue Zhou" },
+      { name: "Zhirong Shen" },
+      { name: "Kunlin Yang"},
+      { name: "Jiwu Shu" },
+      { name: "Yiming Zhang" }
+    ],
+    venue: "In Proceedings of USENIX Conference on File and Storage Technologies (FAST'27), February 23-25, 2027. (AR: 18/92=19.6%)",
+    year: "2027",
+    links: []
+  },
+  {
     selected: false,
     title: "Breaking Barriers in Atomic Scaling: A Hardware-Software-Collaborated Framework to Deconstruct RDMA Atomic",
     authors: [
