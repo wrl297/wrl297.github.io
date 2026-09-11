@@ -915,7 +915,7 @@
       list.innerHTML = window.awardsData.map((award) => `
         <li class="award-item">
           <div>
-            <p class="award-name">${escapeHtml(award.name)}</p>
+            <p class="award-name${award.highlight ? " highlight-red" : ""}">${escapeHtml(award.name)}</p>
             <p class="award-institution">${escapeHtml(award.institution)}</p>
           </div>
           <span class="award-year">${escapeHtml(award.year)}</span>

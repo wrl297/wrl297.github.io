@@ -1,5 +1,9 @@
 window.awardsData = [
   {
+    name: "Ant InTech Scholarship, 2026 (10 Ph.D. students)",
+    highlight: true
+  },
+  {
     name: "CIE - Tencent Doctoral Research Incentive Program (Hunyuan Scholarship), 2025 (23 Ph.D. students in China)",
     // institution: "中国电子学会 / Tencent, 100,000 RMB, 23 Ph.D. students in China",
     // year: "2025"

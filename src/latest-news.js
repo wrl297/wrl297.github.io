@@ -1,5 +1,10 @@
 window.latestNewsData = [
   {
+    date: "2026.09",
+    content: "Received the Ant InTech Scholarship（10 Ph.D. students）",
+    highlights: ["Ant InTech Scholarship"]
+  },
+  {
     date: "2026.06",
     content: "Our work (Gem) accepted to FAST'27.",
     highlights: ["FAST'27"]
